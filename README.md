@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Lucas de Leão <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<!--
-**armlockvoador/armlockvoador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :school: I am a software engineer at [Universidade do Vale do Rio dos Sinos - Campus São Leopoldo](https://www.unisinos.br/).
+- :technologist: Senior software engineer with experience in microservices, message broker, cloud native. I am currently a technology lead at a bank.
+- :student: I am currently learning Blockchain as integration, business, technology and also i appreciate node.js and yours frameworks like nest.js, express.
+<br>
+
+Connect with me
+<p align="center">
+	<a href="mailto:deleaolucas@gmial.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://wa.me/5551999310064"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/lucas-de-le%C3%A3o-999a73156/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/schilling_leao/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+
